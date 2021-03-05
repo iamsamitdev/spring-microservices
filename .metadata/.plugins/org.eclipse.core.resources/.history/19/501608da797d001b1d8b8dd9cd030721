@@ -1,0 +1,5 @@
+package com.itgenius.service.repository;
+
+public interface EmployeeRepository {
+
+}

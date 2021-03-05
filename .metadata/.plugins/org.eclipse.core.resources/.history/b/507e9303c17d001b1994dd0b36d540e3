@@ -1,0 +1,5 @@
+package com.itgenius.service.employee;
+
+public class Employee {
+
+}

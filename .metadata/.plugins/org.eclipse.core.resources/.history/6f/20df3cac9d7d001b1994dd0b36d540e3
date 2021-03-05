@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      user: root
+      password: 377040
+      uri: mongodb://localhost:27017/EmployeeDB  

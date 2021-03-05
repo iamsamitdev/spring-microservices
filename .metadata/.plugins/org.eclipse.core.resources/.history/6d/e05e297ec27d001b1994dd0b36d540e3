@@ -1,0 +1,5 @@
+package com.itgenius.service.organization.repository;
+
+public interface OrganizationRepository {
+
+}

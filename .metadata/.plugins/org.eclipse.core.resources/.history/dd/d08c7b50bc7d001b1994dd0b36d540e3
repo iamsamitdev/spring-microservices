@@ -1,0 +1,5 @@
+package com.itgenius.service.config;
+
+public class AppMongoConfig {
+
+}

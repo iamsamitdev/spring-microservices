@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  profiles:    active:    - prod
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      authentication-database: admin
+      username: root
+      password: 377040
+      database: EmployeeDB
